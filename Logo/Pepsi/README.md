@@ -1,4 +1,4 @@
-# :running_shirt_with_sash: Pepsi Logo with HTML & CSS
+# Hi there! :wave: Pepsi Logo with HTML & CSS
 
 This project demonstrates how to create the iconic Pepsi logo using just HTML and CSS. No images or JavaScript were used. The logo is built using basic shapes and simple positioning to achieve the recognizable Pepsi style.
 
@@ -6,7 +6,7 @@ This project demonstrates how to create the iconic Pepsi logo using just HTML an
 
 Check out the live demo of the Pepsi logo [here](https://drive.google.com/file/d/1lpTPZXh3cgqicD2KSxDC2b9w8AK--iR8/view?usp=sharing).
 
-![Pepsi Logo Demo](https://drive.google.com/file/d/1lpTPZXh3cgqicD2KSxDC2b9w8AK--iR8/view?usp=sharing)
+![Pepsi Logo Demo](https://drive.google.com/uc?export=view&id=1lpTPZXh3cgqicD2KSxDC2b9w8AK--iR8)
 
 ## :computer: Installation
 
