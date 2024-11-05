@@ -4,7 +4,7 @@ This project demonstrates how to create the iconic Adidas logo using just HTML a
 
 ## :rocket: Demo
 
-Check out the live demo of the Adidas logo [here]([https://drive.google.com/link-to-your-image](https://drive.google.com/file/d/1MfnoFsbGdv7AoPyJYdF878FbYbDb_yJG/view?usp=sharing)).
+Check out the live demo of the Adidas logo [here]([[https://drive.google.com/link-to-your-image](https://drive.google.com/file/d/1MfnoFsbGdv7AoPyJYdF878FbYbDb_yJG/view?usp=sharing)](https://drive.google.com/file/d/1MfnoFsbGdv7AoPyJYdF878FbYbDb_yJG/view?usp=sharing)).
 
 ![Adidas Logo Demo]([https://drive.google.com/thumbnail-link-to-image](https://drive.google.com/file/d/1MfnoFsbGdv7AoPyJYdF878FbYbDb_yJG/view?usp=sharing))
 
