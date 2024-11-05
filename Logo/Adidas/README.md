@@ -25,5 +25,5 @@ To use this project, follow these steps:
 
 :link: Connect with me
 
-- [YouTube Channel](https://www.youtube.com/@CodingLofi-H) - Coding Lofi :musical_note:
+- [YouTube Channel](https://www.youtube.com/@CodingLofi-H?sub_confirmation=1) - Coding Lofi :musical_note:
 - [TikTok](https://www.tiktok.com/@codinglofi_h) -Coding Lofi :musical_note:
