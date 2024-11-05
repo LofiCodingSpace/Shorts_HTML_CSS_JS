@@ -1,12 +1,12 @@
-# :running_shirt_with_sash: Adidas Logo with HTML & CSS
+# :running_shirt_with_sash: Pepsi Logo with HTML & CSS
 
-This project demonstrates how to create the iconic Adidas logo using just HTML and CSS. No images or JavaScript were used. The logo is built using basic shapes and simple positioning to achieve the recognizable Adidas style.
+This project demonstrates how to create the iconic Pepsi logo using just HTML and CSS. No images or JavaScript were used. The logo is built using basic shapes and simple positioning to achieve the recognizable Pepsi style.
 
 ## :rocket: Demo
 
-Check out the live demo of the Adidas logo [here](https://drive.google.com/file/d/1MfnoFsbGdv7AoPyJYdF878FbYbDb_yJG/view?usp=sharing).
+Check out the live demo of the Pepsi logo [here](https://drive.google.com/file/d/1lpTPZXh3cgqicD2KSxDC2b9w8AK--iR8/view?usp=sharing).
 
-![Adidas Logo Demo](https://drive.google.com/uc?export=view&id=1MfnoFsbGdv7AoPyJYdF878FbYbDb_yJG)
+![Pepsi Logo Demo](https://drive.google.com/file/d/1lpTPZXh3cgqicD2KSxDC2b9w8AK--iR8/view?usp=sharing)
 
 ## :computer: Installation
 
